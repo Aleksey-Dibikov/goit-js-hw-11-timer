@@ -1,0 +1,14 @@
+.timer {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+}
+
+.value {
+  display: flex;
+  justify-content: space-around;
+}
+
+.field {
+  font-size: 30px;
+}
